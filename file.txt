@@ -1,2 +1,3 @@
 I take a try.
 Git Bash is not easy.
+Git ni yao zen me cai neng shu ru a.
